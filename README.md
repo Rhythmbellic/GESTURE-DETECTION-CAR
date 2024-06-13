@@ -66,7 +66,7 @@ The next step involves creating a Python script that interfaces with the Arduino
 
 (v)    Use double-sided tape to affix the Arduino, motor driver, and battery to the chassis.
 
-![Screenshot 2024-06-13 125258](https://github.com/Rhythmbellic/GESTURE-DETECTION-CAR/assets/92723976/77b67dab-2722-4698-b3c5-02d5366566b7)
+![Screenshot 2024-06-13 125258](https://github.com/Rhythmbellic/GESTURE-DETECTION-CAR/assets/92723976/d82c6074-21cd-44a7-8fa1-9243f97f54e9)
 
 (vi)   Connections:
 -Power Supply: Connect an external power supply (battery) to the L298N motor driver. The power supply voltage should match the motor specifications. Connect the positive (+) and negative (-) terminals of the power supply to the corresponding terminals 
@@ -93,7 +93,7 @@ Conclusion
 
 Congratulations! You have successfully built a Gesture Detection Car. Feel free to enhance and modify the project, exploring new ways to use this innovative interface.
 
-![WhatsApp Image 2024-05-26 at 15 07 08_7d07fb44(1)(1)](https://github.com/Rhythmbellic/GESTURE-DETECTION-CAR/assets/92723976/bdb2bd49-c9cd-4c51-86ff-4bea4226514a)
+![WhatsApp Image 2024-05-26 at 15 07 08_7d07fb44(1)(1)](https://github.com/Rhythmbellic/GESTURE-DETECTION-CAR/assets/92723976/925dfdc0-6e8b-415f-b900-72efbf315cd3)
 
 Repository Files
 
